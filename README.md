@@ -63,7 +63,7 @@ select some nodes, hit the shorcut `ctrl+alt+c` and you should be presented with
 
 select a user to send the nodes
 
-and they should be able o hit rl+alt+v` and paste the sended nodes.
+and they should be able o hit `ctrl+alt+v` and paste the sended nodes.
 
 donoe be happy :)
 
