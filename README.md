@@ -4,7 +4,13 @@ a network copy paste to send and recibe nodes  inside of nuke.
 dont hesitate to leave feedback or what improvements i could do.
   
 
-# v1.0.0 - nuke 13 and up
+# v1.1.0 - nuke 13 and up
+
+
+  # change log
+  
+  moved the user and ip config to an .json file
+  added adavanced options to edit users directly in nuke
   
   # setup
   
