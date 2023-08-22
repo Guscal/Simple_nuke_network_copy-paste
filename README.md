@@ -11,7 +11,7 @@ dont hesitate to leave feedback or what improvements i could do.
   
   - moved the user and ip config to an .json file
   
-  - added adavanced options to edit users directly in nuke
+  - added advanced options to edit users directly in nuke
     
   - added nuke 12 support
   
