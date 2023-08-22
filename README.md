@@ -9,9 +9,10 @@ dont hesitate to leave feedback or what improvements i could do.
 
   # change log
   
-  -moved the user and ip config to an .json file
+  - moved the user and ip config to an .json file
   
-  -added adavanced options to edit users directly in nuke
+  - added adavanced options to edit users directly in nuke
+    
   - added nuke 12 support
   
   # setup
